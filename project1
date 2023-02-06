@@ -1,0 +1,13 @@
+from math import *
+print("Do your simple math")
+#which numbers 
+num1 = float (input("first:"))
+num2 = float (input("second:"))
+#Add two numbers
+sum = num1 + num2
+print("total:", sum)
+print("Now let's substract")
+total = float (input("total:"))
+number = float (input("number:"))
+substract = total - number
+print("final total:", substract) 
